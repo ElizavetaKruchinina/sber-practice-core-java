@@ -1,2 +1,2 @@
-# sber-practice-core-java
-Практика. Сбер. Основы Java
+# sber-practice
+Практика. Сбер
